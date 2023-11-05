@@ -1,4 +1,4 @@
-# Other Python Projects and Practice
+# Other Python Projects 
 
 Other projects and practice using Python including the following topics:
 
